@@ -2,7 +2,6 @@
 
 A modern cyberpunk-inspired portfolio website designed for **Shaheer**, a professional Video Editor. Built with clean HTML, CSS, JavaScript and Bootstrap, the portfolio combines cinematic visuals with a futuristic UI to create a memorable browsing experience.
 
-![Portfolio Preview](assets/images/preview.jpg)
 
 ---
 
@@ -73,10 +72,7 @@ shaheer-portfolio/
 │   ├── js/
 │   │   ├── code.js
 │   │   └── gsap.js
-│   │
-│   ├── images/
-│   │
-│   └── videos/
+│   └── images/
 │
 └── README.md
 ```
